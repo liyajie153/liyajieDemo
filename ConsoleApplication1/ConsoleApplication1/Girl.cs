@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         public void greatTemperament()
         {
-            Console.WriteLine("气质");
+            Console.WriteLine("气质1");
         }
 
         public void goodLooking()
